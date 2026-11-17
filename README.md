@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=180&amp;color=0:17131F,100:9B6B91&amp;text=Jamille%20Teixeira&amp;fontColor=F8EAF5&amp;fontSize=42&amp;fontAlignY=42&amp;desc=Cloud%20%26%20Technology%20%7C%20Systems%20%26%20Operations&amp;descSize=14&amp;descAlignY=65&amp;descColor=E7C6DE" />
+<img src="./banner.svg" width="100%" alt="Jamille Teixeira - Cloud & Technology"/>
 
 </div>
 <br/>
