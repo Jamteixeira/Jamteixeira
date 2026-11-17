@@ -1,0 +1,14 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#17131F"/>
+      <stop offset="55%" stop-color="#35203C"/>
+      <stop offset="100%" stop-color="#754D75"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <text x="600" y="130" text-anchor="middle" fill="#F8EAF5" font-family="Arial" font-size="48" font-weight="bold">Jamille Teixeira</text>
+  <text x="600" y="175" text-anchor="middle" fill="#E7C6DE" font-family="Arial" font-size="19" letter-spacing="2">CLOUD &amp; TECHNOLOGY</text>
+  <text x="600" y="215" text-anchor="middle" fill="#C9BED0" font-family="Arial" font-size="15">Systems · Infrastructure · Operations</text>
+</svg>
