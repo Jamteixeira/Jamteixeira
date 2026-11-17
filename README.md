@@ -1,8 +1,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:17131F,50:35203C,100:9B6B91&text=Jamille%20Teixeira&fontColor=F8EAF5&fontSize=42&fontAlignY=42&desc=Cloud%20%26%20Technology%20%7C%20Systems%20%26%20Operations&descSize=14&descAlignY=65&descColor=E7C6DE" />
+<div align="center">
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=180&amp;color=0:17131F,100:9B6B91&amp;text=Jamille%20Teixeira&amp;fontColor=F8EAF5&amp;fontSize=42&amp;fontAlignY=42&amp;desc=Cloud%20%26%20Technology%20%7C%20Systems%20%26%20Operations&amp;descSize=14&amp;descAlignY=65&amp;descColor=E7C6DE" />
+
+</div>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=1000&color=DBA6D1&center=true&vCenter=true&width=600&lines=Exploring+Cloud+Computing+%26+AWS;Learning+by+building+real+projects;Infrastructure+%7C+Linux+%7C+Terraform" />
